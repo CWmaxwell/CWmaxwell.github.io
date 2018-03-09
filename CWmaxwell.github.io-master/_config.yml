@@ -1,0 +1,17 @@
+future: true
+permalink: /:title/
+url: http://cwmaxwell.github.io
+name: chen wen
+author: chen wen
+qq: 1515430697
+email: 1515430697@qq.com
+
+duoshuo: 
+beian: 
+cnzz: 
+weibo: 
+github: CWmaxwelll
+about: "这里是 陈文 的个人博客，创建于 2018 年。"
+
+safe: true
+paginate: 20
