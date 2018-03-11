@@ -15,3 +15,4 @@ about: "这里是 陈文 的个人博客，创建于 2018 年。"
 
 safe: true
 paginate: 20
+markdown: rdiscount
