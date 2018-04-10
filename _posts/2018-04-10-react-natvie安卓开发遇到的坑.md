@@ -1,7 +1,7 @@
 ---
 layout: post
 title: react-native安卓开发遇到的坑
-date: 2018-3-17 15:04:10+00:00
+date: 2018-4-10 19:41:10+00:00
 categories: 作业
 tags: 博客
 ---
