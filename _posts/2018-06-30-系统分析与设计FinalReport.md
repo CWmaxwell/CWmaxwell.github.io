@@ -20,7 +20,8 @@ tags: 博客
 ![Alt text](https://raw.githubusercontent.com/CWmaxwell/test_git2/master/picture/finalReport/git%E7%BB%9F%E8%AE%A1%E5%9B%BE/7.png)
 ![Alt text](https://raw.githubusercontent.com/CWmaxwell/test_git2/master/picture/finalReport/git%E7%BB%9F%E8%AE%A1%E5%9B%BE/8.png)
 ![Alt text](https://raw.githubusercontent.com/CWmaxwell/test_git2/master/picture/finalReport/git%E7%BB%9F%E8%AE%A1%E5%9B%BE/9.png)
-![Alt text](https://raw.githubusercontent.com/CWmaxwell/test_git2/master/picture/finalReport/git%E7%BB%9F%E8%AE%A1%E5%9B%BE/10.png)
+![Alt text](https://raw.githubusercontent.com/CWmaxwell/test_git2/master/picture/finalReport/git%E7%BB%9F%E8%AE%A1%E5%9B%BE/10.png)  
+
 * 自认为最得意/或有价值/或有苦劳的工作清单，含简短说明（一句话）  
 1、负责制定前端代码的分类内容，提前完成一些组件、功能模块以供其他组员使用  
 2、完成购物车列表组件，由于没有现成的第三方组件可以使用，自己专研完成了。  
