@@ -27,8 +27,9 @@ tags: 博客
 3、二次封装RN的fetchAPI，实现超时取消功能  
 4、前端小组有人离职，接手他的烂摊子  
 5、独自完成与后端的API测试  
+
 * 个人的技术类、项目管理类博客清单（只需要名称与 url ）  
 
 
 
-    [react-native安卓开发遇到的坑](https://cwmaxwell.github.io/react-natvie%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91/)
+[react-native安卓开发遇到的坑](https://cwmaxwell.github.io/react-natvie%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91/)
